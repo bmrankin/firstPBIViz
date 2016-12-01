@@ -1,0 +1,24 @@
+{
+  "visual": {
+    "name": "firstPBIViz",
+    "displayName": "First PBI Viz",
+    "guid": "PBI_CV_301E1EE3_EB84_4343_98EE_88DC3FC04D2F",
+    "visualClassName": "Visual",
+    "version": "1.0.0",
+    "description": "",
+    "supportUrl": "",
+    "gitHubUrl": ""
+  },
+  "apiVersion": "1.3.0",
+  "author": {
+    "name": "Bryan Rankin",
+    "email": "bryan@bryanrankin.com"
+  },
+  "assets": {
+    "icon": "assets/icon.png"
+  },
+  "externalJS": [],
+  "style": "style/visual.less",
+  "capabilities": "capabilities.json",
+  "dependencies": "dependencies.json"
+}
